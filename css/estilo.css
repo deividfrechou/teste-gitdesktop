@@ -1,0 +1,15 @@
+h1 {
+   font-family: Arial, Verdana; /* Define a fonte para Arial, ou usa a fonte Verdana*/
+   color: #336699; /* Altera a cor do texto para um azul específico */
+   text-align: center; /* Centraliza o texto na página */
+   font-weight: bold; /* Deixa o texto em negrito */
+}
+.text-left {
+   text-align: left; /* Alinha o texto à esquerda */
+}
+.text-center {
+   text-align: center; /* Alinha o texto ao centro */
+}
+.text-right {
+   text-align: right; /* Alinha o texto à direita */
+}
